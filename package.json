@@ -1,6 +1,6 @@
 {
   "name": "@mino-randy/misql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ORM for mysql",
   "main": "index.js",
   "scripts": {
