@@ -7,6 +7,16 @@ npm install @mino-randy/misql
 ```
 ### HOW TO IMPORT 
 ```
-require('npm i @mino-randy/misql')
+require('@mino-randy/misql')
+
+```
+
+### EXISTING FUNCTIONS
+```
+find()      // query all data
+findBy()    // query data with condition as parameters
+create()    // create new collection
+findByIdAnRemove()   // remove one collection
+findByIdAnUpdate()   // update collection
 
 ```
